@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\visual Project\\КУРСЫ GEKK BRAINS\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5.csproj": {}
+    "C:\\Users\\matvey\\Source\\Repos\\Part-2.1-Lesson-5\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5.csproj": {}
   },
   "projects": {
-    "D:\\visual Project\\КУРСЫ GEKK BRAINS\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5.csproj": {
+    "C:\\Users\\matvey\\Source\\Repos\\Part-2.1-Lesson-5\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visual Project\\КУРСЫ GEKK BRAINS\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5.csproj",
+        "projectUniqueName": "C:\\Users\\matvey\\Source\\Repos\\Part-2.1-Lesson-5\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5.csproj",
         "projectName": "Part 2.1 Lesson 5",
-        "projectPath": "D:\\visual Project\\КУРСЫ GEKK BRAINS\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5.csproj",
+        "projectPath": "C:\\Users\\matvey\\Source\\Repos\\Part-2.1-Lesson-5\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5.csproj",
         "packagesPath": "C:\\Users\\matvey\\.nuget\\packages\\",
-        "outputPath": "D:\\visual Project\\КУРСЫ GEKK BRAINS\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5\\obj\\",
+        "outputPath": "C:\\Users\\matvey\\Source\\Repos\\Part-2.1-Lesson-5\\Part 2.1 Lesson 5\\Part 2.1 Lesson 5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matvey\\AppData\\Roaming\\NuGet\\NuGet.Config",
