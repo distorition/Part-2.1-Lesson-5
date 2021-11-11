@@ -25,6 +25,7 @@ namespace Part_2._1_Lesson_5
             nym5--;
             Console.WriteLine("({0},{1})", nym5.FristNum, nym5.SecondNum);
             Console.WriteLine(nym==nym1);
+            Console.WriteLine("({0},{1})", nym5.FristNum, nym5.SecondNum);
         }
     }
 }
